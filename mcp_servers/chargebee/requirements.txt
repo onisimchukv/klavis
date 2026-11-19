@@ -1,4 +1,4 @@
-mcp==1.23.0
+mcp==1.30.0
 pydantic
 typing-extensions
 httpx
